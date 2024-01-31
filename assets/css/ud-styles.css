@@ -15,7 +15,7 @@
   --font: "Inter", sans-serif;
   --body-color: #637381;
   --heading-color: #212b36;
-  --primary-color: #3056d3;
+  --primary-color: #cc0494;
   --white: #ffffff;
 }
 
@@ -464,7 +464,7 @@ p {
 }
 
 .navbar-btn .ud-white-btn:hover {
-  background: skyblue;
+  background: #e682ca;
   color: var(--heading-color);
 }
 
@@ -473,7 +473,7 @@ p {
 }
 
 .sticky .navbar-nav .nav-item:hover > a {
-  color: skyblue;
+  color: #e682ca;
   opacity: 1;
 }
 
@@ -482,7 +482,7 @@ p {
 }
 
 .sticky .navbar-nav .nav-item a.active, .sticky .navbar-nav .nav-item a:hover {
-  color: skyblue;
+  color: #e682ca;
   opacity: 1;
 }
 
