@@ -672,7 +672,7 @@ p {
 /* ===== Features CSS ===== */
 .ud-features {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 50px;
 }
 
 @media (max-width: 767px) {
@@ -795,7 +795,7 @@ p {
 /* ===== About CSS ===== */
 .ud-about {
   background: #f3f4fe;
-  padding: 120px 0;
+  padding: 40px 0;
 }
 
 @media (max-width: 767px) {
@@ -822,7 +822,7 @@ p {
 }
 
 .ud-about-content-wrapper {
-  padding: 70px;
+  padding: 40px;
 }
 
 @media (max-width: 767px) {
@@ -1006,8 +1006,8 @@ p {
 
 /* ===== FAQ CSS ===== */
 .ud-faq {
-  padding-top: 120px;
-  padding-bottom: 90px;
+  padding-top: 20px;
+  padding-bottom: 30px;
   background: #f3f4fe;
   position: relative;
   z-index: 1;
@@ -1220,8 +1220,8 @@ p {
 
 /* ===== Team CSS ===== */
 .ud-team {
-  padding-top: 120px;
-  padding-bottom: 80px;
+  padding-top: 40px;
+  padding-bottom: 30px;
 }
 
 @media (max-width: 767px) {
@@ -1318,7 +1318,7 @@ p {
 
 /* ===== Contact CSS ===== */
 .ud-contact {
-  padding: 120px 0px;
+  padding: 40px 0px;
   position: relative;
 }
 
